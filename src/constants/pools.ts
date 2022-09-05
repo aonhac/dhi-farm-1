@@ -1,7 +1,7 @@
 export const Pools = [
     {
         poolAddresses: {
-            97: '0xD6d89Aa2E448c32A39B09BB9e7275900FA31A1eC',
+            97: '0xFD0de6d3a6EAa0Ffa215148fEEED3a95CD92caf0',
         },
         stakingTokenAddresses: {
             97: '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
@@ -15,7 +15,7 @@ export const Pools = [
     },
     {
         poolAddresses: {
-            97: '0x883A8A6c7FF1907720040f59eF09cF08Ba9265b7',
+            97: '0x4Ce85F4Dd12712Ef4C85E7012C5cCA6EE1f2CA4c',
         },
         stakingTokenAddresses: {
             97: '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee',
@@ -29,16 +29,16 @@ export const Pools = [
     },
     {
         poolAddresses: {
-            97: '0x16b711bC75bcb6c9DeAFe0CdB550bE2401eEAF3D',
+            97: '0x9546A13Ac34dE8e34629d941e43635178939503E',
         },
         stakingTokenAddresses: {
-            97: '0x5B87A076E6CdFd043FCc8d8052FB8EA5E49580cC',
+            97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
         },
-        name: 'PUG',
-        symbol: 'PUG',
-        tokenSymbol: 'PUG',
+        name: 'DHI',
+        symbol: 'DHI',
+        tokenSymbol: 'DHI',
         isWBNB: false,
-        icon: 'pug',
+        icon: 'dhi',
         magnification: 3,
 
     },
