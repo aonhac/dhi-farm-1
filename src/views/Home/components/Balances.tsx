@@ -95,7 +95,7 @@ const Balances: React.FC = () => {
           <StyledBalances>
             <StyledBalance>
               <div style={{ flex: 1 }}>
-                <Label text="Your PUG Balance" />
+                <Label text="Your DHI Balance" />
                 <StyledBalanceWrapper>
                   <SushiIcon />
                   <Spacer size='md' />
@@ -112,21 +112,21 @@ const Balances: React.FC = () => {
           <FootnoteValue>
             <PendingRewards />
             {' '}
-            <span style={{ color: '#FFD201' }}>PUG</span>
+            <span style={{ color: '#FFD201' }}>DHI</span>
           </FootnoteValue>
         </Footnote>
       </Card>
       <Spacer />
       <Card>
         <CardContent>
-          <Label text="Total PUG Supply" />
+          <Label text="Total DHI Supply" />
           <Value
             value={(!!account && totalSupply) ? getBalanceNumber(totalSupply) : 'Locked'}
           />
         </CardContent>
         <Footnote>
           New rewards per block
-          <FootnoteValue>1,000 <span style={{ color: '#FFD201' }}>PUG</span></FootnoteValue>
+          <FootnoteValue>1,000 <span style={{ color: '#FFD201' }}>DHI</span></FootnoteValue>
         </Footnote>
       </Card>
     </StyledWrapper>
