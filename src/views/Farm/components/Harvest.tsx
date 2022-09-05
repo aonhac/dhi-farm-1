@@ -34,13 +34,13 @@ const Harvest: React.FC<HarvestProps> = ({ pid }) => {
               <StyledImageIcon src={FarmIcon} alt="icon"/>
             </CardIcon>
             <Value value={getBalanceNumber(earnings)} />
-            <Label text="PUG Earned" />
+            <Label text="DHI Earned" />
             { nftSymbol && acc > 0 ? `(+${acc / 10}% with ⛏)` : '' }
           </StyledCardHeader>
           <StyledCardActions>
             <Button
               disabled={!earnings.toNumber() || pendingTx}
-              text={pendingTx ? 'Collecting PUG' : 'Harvest'}
+              text={pendingTx ? 'Collecting DHI' : 'Harvest'}
               onClick={async () => {
                 setPendingTx(true)
                 await onReward()
