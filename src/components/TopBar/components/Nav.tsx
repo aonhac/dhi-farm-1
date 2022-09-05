@@ -16,11 +16,12 @@ const Nav: React.FC = () => {
         target="_blank"
       >
         Dachshund Inu
-      </StyledAbsoluteLink>
-      <StyledLink exact activeClassName="active" to="">
-        
-      </StyledLink>
       <StyledAbsoluteLink
+        href="https://testnet.binance.org/faucet-smart"
+        target="_blank"
+      >
+        Binance Faucet
+      </StyledAbsoluteLink>
         href="https://pancakeswap.finance/swap"
         target="_blank"
       >
