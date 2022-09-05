@@ -17,11 +17,9 @@ const Nav: React.FC = () => {
       >
         Dachshund Inu
       </StyledAbsoluteLink>
-        href="https://testnet.binance.org/faucet-smart"
-        target="_blank"
-      >
-        Binance Faucet
-      </StyledAbsoluteLink>
+      <StyledLink exact activeClassName="active" to="/nfts">
+        NFTs
+      </StyledLink>
       </StyledAbsoluteLink>
         href="https://pancakeswap.finance/swap"
         target="_blank"
