@@ -11,7 +11,7 @@ const Nav: React.FC = () => {
         Telegram
       </StyledLink>
       <StyledLink target="_blank" href="https://dachshundinu.io">
-        Pug Inu
+        Dachshund Inu
       </StyledLink>
       <StyledLink target="_blank" href="https://github.com/dachshundinu/">
         GitHub
