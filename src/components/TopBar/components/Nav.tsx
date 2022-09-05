@@ -12,19 +12,19 @@ const Nav: React.FC = () => {
         Menu
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://puginu.finance"
+        href="https://dachshundinu.io"
         target="_blank"
       >
-        Pug Inu
+        Dachshund Inu
       </StyledAbsoluteLink>
-      <StyledLink exact activeClassName="active" to="/nfts">
-        NFTs
+      <StyledLink exact activeClassName="active" to="">
+        
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://app.puginu.finance"
+        href="https://pancakeswap.finance/swap"
         target="_blank"
       >
-        Swap
+        Exchange
       </StyledAbsoluteLink>
     </StyledNav>
   )
