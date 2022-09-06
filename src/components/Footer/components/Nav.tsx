@@ -6,7 +6,7 @@ const Nav: React.FC = () => {
     <StyledNav>
       <StyledLink
         target="_blank"
-        href="https://t.me/dachshundinu"
+        href="https://t.me/Dachshund_Global"
       >
         Telegram
       </StyledLink>
@@ -16,12 +16,12 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="https://github.com/dachshundinu/">
         GitHub
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/dachshundinu">
+      <StyledLink target="_blank" href="https://twitter.com/DachshundBSC">
         Twitter
       </StyledLink>
       <StyledLink
         target="_blank"
-        href="https://medium.com/@dachshundinu"
+        href="https://medium.com/@DachshundGlobal"
       >
         Medium
       </StyledLink>
