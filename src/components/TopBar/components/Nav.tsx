@@ -12,10 +12,10 @@ const Nav: React.FC = () => {
         Menu
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://dachshundinu.io"
+        href="https://alaskainu.finance"
         target="_blank"
       >
-        Dachshund Inu
+        Alaska Inu
       </StyledAbsoluteLink>
       <StyledAbsoluteLink
         href="https://testnet.binance.org/faucet-smart"
@@ -24,7 +24,7 @@ const Nav: React.FC = () => {
         Binance Faucet
       </StyledAbsoluteLink>
       <StyledAbsoluteLink
-        href="https://pancakeswap.finance/swap?chainId=97&outputCurrency=0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db"
+        href="https://pancakeswap.finance/swap?chainId=97&outputCurrency="
         target="_blank"
       >
         Exchange Testnet
