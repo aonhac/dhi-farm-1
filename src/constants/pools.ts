@@ -29,10 +29,10 @@ export const Pools = [
     },
     {
         poolAddresses: {
-            97: '0x9546A13Ac34dE8e34629d941e43635178939503E',
+            97: '0xbc3028cF30A2a8e590c1D8237e6254C1d8b250f2',
         },
         stakingTokenAddresses: {
-            97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
+            97: '0x87b335690b561c366CCb6CeC285CbFEfB86ab745',
         },
         name: 'ALK',
         symbol: 'ALK',
