@@ -23,7 +23,7 @@ const Farms: React.FC = () => {
         {account ? (
           <>
             <Route exact path={path}>
-              <PageHeader title="Stake tokens to stack DHI" subtitle="DHI PRICE: $0.000000000088" />
+              <PageHeader title="Stake tokens to stack ALK" subtitle="ALK PRICE: $0.000000000088" />
               <FarmCards />
             </Route>
             <Route path={`${path}/:farmId`}>
