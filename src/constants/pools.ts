@@ -34,11 +34,11 @@ export const Pools = [
         stakingTokenAddresses: {
             97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
         },
-        name: 'DHI',
-        symbol: 'DHI',
-        tokenSymbol: 'DHI',
+        name: 'ALK',
+        symbol: 'ALK',
+        tokenSymbol: 'ALK',
         isWBNB: false,
-        icon: 'dhi',
+        icon: 'alk',
         magnification: 3,
 
     },
