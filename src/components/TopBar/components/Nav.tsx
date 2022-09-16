@@ -24,7 +24,7 @@ const Nav: React.FC = () => {
         Binance Faucet
       </StyledAbsoluteLink>
       <StyledAbsoluteLink
-        href="https://pancakeswap.finance/swap?chainId=97&outputCurrency="
+        href="https://pancakeswap.finance/swap?chainId=97&outputCurrency=0x87b335690b561c366CCb6CeC285CbFEfB86ab745"
         target="_blank"
       >
         Exchange Testnet
