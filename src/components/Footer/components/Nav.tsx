@@ -13,10 +13,10 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="https://alaskainu.finance">
         Alaska Inu
       </StyledLink>
-      <StyledLink target="_blank" href="https://github.com/alaskainu/">
+      <StyledLink target="_blank" https://github.com/AlaskaInubsc">
         GitHub
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/AlaskaInu_bsc">
+      <StyledLink target="_blank"href=" https://twitter.com/AlaskaInu_bsc">
         Twitter
       </StyledLink>
       <StyledLink
