@@ -10,10 +10,10 @@ const Nav: React.FC = () => {
       >
         Telegram
       </StyledLink>
-      <StyledLink target="_blank" href="https://alaskainu.finance">
+      <StyledLink target="_blank"href="https://alaskainu.finance">
         Alaska Inu
       </StyledLink>
-      <StyledLink target="_blank" https://github.com/AlaskaInubsc">
+      <StyledLink target="_blank"href="https://github.com/AlaskaInubsc">
         GitHub
       </StyledLink>
       <StyledLink target="_blank"href=" https://twitter.com/AlaskaInu_bsc">
